@@ -1,0 +1,23 @@
+[{
+        
+    
+        "podcastName": "flow",
+        "episode": "CBUM - Flow #319",
+        "videoId": "pQSuQmUfS30",
+        "category": ["saude", "fitness"]
+        
+    },
+     {
+        "podcastName": "flow",
+        "episode": "Felipão - Flow #651",
+        "videoId": "DBc68IpXt5U",
+        "category": ["politica", "mentalidade"]
+        
+    },
+    {
+        "podcastName": "venus",
+        "episode": "Bolsonaro Hipotetico - Flow #22",
+        "videoId": "DBc68IpXt5U",
+        "category": ["politica", "hipotetico"]
+    }
+]
